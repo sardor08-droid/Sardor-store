@@ -1,2 +1,0 @@
-# Sardor-store
-Salom 
